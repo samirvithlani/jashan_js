@@ -1,0 +1,42 @@
+javascript:
+2 type prpg lang:
+server side prog : console,server
+                 : python java c ,cpp,....
+client side: end user browser:
+                 html css javascript
+
+2 typed prog lang
+statically typed : data type must define
+dynamically typed: data type will be define by compiler:
+
+client side:
+browser:
+  -->web pages: html + js
+
+3 way we can write js
+1) inline
+2) internal
+3) extrnal  .js
+
+
+compiler of javascript: babble
+browser will have js engine:
+
+javascript first engine firefox by netscape community : spider monkey
+chrome: v8
+safari webkit
+edge cahkra
+brave v8
+
+
+use of javascript:
+to manuplate dom --> document objecct model --> html page
+html page static data:
+dynamic data javascript
+
+we have 2 keyword to decare variable in javascript:
+
+var, let, const
+
+
+
