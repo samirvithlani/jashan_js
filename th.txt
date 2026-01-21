@@ -38,5 +38,17 @@ we have 2 keyword to decare variable in javascript:
 
 var, let, const
 
+2 if :nested ladder
+1 switch case:
+
+
+var let const:
+we have 2 scopes 
+
+global scope:
+block scope:
+
+{}
+
 
 
