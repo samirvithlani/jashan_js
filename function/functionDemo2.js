@@ -30,3 +30,5 @@ console.log(ans)
 const findMax = (no1,no2)=>no1>no2?no1:no2
 console.log("max....",findMax(100,20))
 
+
+
