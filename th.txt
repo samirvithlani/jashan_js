@@ -50,5 +50,28 @@ block scope:
 
 {}
 
+events: --> something happened :
+HTML --> page --> change -->capture using events
+keyboard events
+mouse events
+
+BOM: browser object model
+DOM: doument object model
+
+
+HTML ==>tag
+4 identifiers
+
+id <div id ="txt"> id --> unique
+name <h1 name=""> ->it can be duplciate
+class <div class"box" > it can be duplicate
+tag it self is identifier..
+
+<h1>INNER TEXT</h1>
+<h1><p></p></h1>
+InnerHTML
+
+<img src
+src attribute
 
 
