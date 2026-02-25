@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./inputeventDemo1.js"></script>
+</head>
+<body>
+    <div>
+        <label>NAME</label>
+        <input id="txt" type="text" onkeyup="getData()">
+    </div>
+    <div>
+        <label>NAME</label>
+        <!-- <input id="txt1" type="text" onkeydown="getData1()"> -->
+        <input id="txt1" type="text" onkeypress="getData1()">
+    </div>
+    <div>
+        <label>NAME</label>
+        <input id="txt2" type="text" oninput="getData2()">
+    </div>
+    <div>
+        <label>Email</label>
+        <input id="email" type="text" onblur="checkEmail()">
+    </div>
+    
+
+</body>
+</html>
